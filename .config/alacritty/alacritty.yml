@@ -1,0 +1,45 @@
+window:
+  dimensions:
+    columns: 130
+    lines:   35
+  padding:
+    x: 2
+    y: 2
+
+font:
+  normal:
+    family: Iosevka Term Medium Extended
+    style:  Medium
+  bold:
+    family: Iosevka Term Medium Extended
+    style:  Medium
+  italic:
+    family: Iosevka Term Medium Extended
+    style:  Medium
+  bold_italic:
+    family: Iosevka Term Medium Extended
+    style:  Medium
+  size: 10.5
+
+colors:
+  primary:
+    background: "0x1b1b1b"
+    foreground: "0xa6a6a6"
+  normal:
+    black:   "0x3d3d3d"
+    red:     "0xb44b4b"
+    green:   "0x3c8c73"
+    yellow:  "0xcda550"
+    blue:    "0x4b7db9"
+    magenta: "0x5a6496"
+    cyan:    "0x7db9aa"
+    white:   "0xa0a0a0"
+  bright:
+    black:   "0x4d4d4d"
+    red:     "0xcd6464"
+    green:   "0x5ab49b"
+    yellow:  "0xe1b964"
+    blue:    "0x6496d2"
+    magenta: "0x7882be"
+    cyan:    "0x9bd7c8"
+    white:   "0xd2d2d2"

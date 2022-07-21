@@ -1,0 +1,18 @@
+#!/bin/sh
+
+symlink() {
+  from="$(pwd)/$1"
+  to="$HOME/$2"
+
+  mkdir -p $(dirname $to)
+  ln -sf $from $to
+}
+
+symlink .config/alacritty/alacritty.yml .config/alacritty/alacritty.yml
+symlink .config/code/product.json .config/VSCodium/product.json
+symlink .config/code/user/keybindings.json .config/VSCodium/User/keybindings.json
+symlink .config/code/user/settings.json .config/VSCodium/User/settings.json
+symlink .config/fish/config.fish .config/fish/config.fish
+symlink .config/fontconfig/fonts.conf .config/fontconfig/fonts.conf
+symlink .config/lazygit/config.yml .config/lazygit/config.yml
+symlink .config/tabletprofilesrc .config/tabletprofilesrc

@@ -1,0 +1,10 @@
+[
+  {
+    "key": "f9",
+    "command": "editor.action.sortLinesAscending"
+  },
+  {
+    "key": "f10",
+    "command": "editor.action.sortLinesDescending"
+  }
+]

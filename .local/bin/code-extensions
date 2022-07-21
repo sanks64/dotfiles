@@ -1,0 +1,17 @@
+#!/bin/sh
+
+extensions="
+  bmalehorn.vscode-fish
+  cdonohue.quill-icons
+  crystal-lang-tools.crystal-lang
+  Demenskiy.mokka
+  EditorConfig.EditorConfig
+  esbenp.prettier-vscode
+"
+
+arguments=""
+for extension in $extensions; do
+  arguments="$arguments --install-extension $extension"
+done
+
+code $arguments
