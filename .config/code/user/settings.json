@@ -38,8 +38,6 @@
   "files.trimFinalNewlines": true,
   "files.trimTrailingWhitespace": true,
 
-  "markdown.preview.fontFamily": "Roboto",
-
   "security.workspace.trust.enabled": false,
 
   "terminal.integrated.fontSize": 14,
