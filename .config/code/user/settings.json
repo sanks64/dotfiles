@@ -45,7 +45,7 @@
 
   "window.titleBarStyle": "custom",
 
-  "workbench.colorTheme": "Mokka",
+  "workbench.colorTheme": "Soft Colors (No Italics)",
   "workbench.iconTheme": "quill-icons",
   "workbench.layoutControl.enabled": false,
   "workbench.tree.indent": 20,

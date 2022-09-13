@@ -4,9 +4,9 @@ extensions="
   bmalehorn.vscode-fish
   cdonohue.quill-icons
   crystal-lang-tools.crystal-lang
-  Demenskiy.mokka
   EditorConfig.EditorConfig
   esbenp.prettier-vscode
+  victorlitvinenko.vscode-soft-colors
 "
 
 arguments=""
