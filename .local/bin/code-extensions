@@ -1,12 +1,12 @@
 #!/bin/sh
 
 extensions="
+  anotherglitchinthematrix.monochrome
   bmalehorn.vscode-fish
   cdonohue.quill-icons
   crystal-lang-tools.crystal-lang
   EditorConfig.EditorConfig
   esbenp.prettier-vscode
-  victorlitvinenko.vscode-soft-colors
 "
 
 arguments=""
