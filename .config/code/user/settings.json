@@ -38,6 +38,8 @@
   "files.trimFinalNewlines": true,
   "files.trimTrailingWhitespace": true,
 
+  "git.openRepositoryInParentFolders": "never",
+
   "security.workspace.trust.enabled": false,
 
   "terminal.integrated.fontSize": 14,
