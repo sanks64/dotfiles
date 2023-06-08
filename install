@@ -15,4 +15,3 @@ symlink .config/code/user/settings.json .config/VSCodium/User/settings.json
 symlink .config/fish/config.fish .config/fish/config.fish
 symlink .config/fontconfig/fonts.conf .config/fontconfig/fonts.conf
 symlink .config/lazygit/config.yml .config/lazygit/config.yml
-symlink .config/tabletprofilesrc .config/tabletprofilesrc
